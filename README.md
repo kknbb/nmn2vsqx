@@ -62,6 +62,9 @@
   
 ### 快速开始
 仓库中`music.example.json`文件是一个简单的`music.json`示例
+
   修改`music.example.json`文件名为`music.json`
+  
   `node index`即可
+  
   该例中转译了一段<追光者>的副歌
