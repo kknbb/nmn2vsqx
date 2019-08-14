@@ -1,0 +1,179 @@
+{
+    "tempo": 72,
+    "key": "B",
+    "beat": "4/4",
+    "notes":[
+        {
+            "type": "s4"
+        },
+        {
+            "type": "s4"
+        },
+        {
+            "type": "s8"
+        },
+        {
+            "type": "8",
+            "pitch": "5"
+        },
+        {
+            "type": "8",
+            "pitch": "6"
+        },
+        {
+            "type": "8",
+            "pitch": "7"
+        },
+        {
+            "type": "8",
+            "pitch": "2",
+            "multiples": 1
+        },
+        {
+            "type": "16",
+            "pitch": "1",
+            "multiples": 1
+        },
+        {
+            "type": "16",
+            "pitch": "3"
+        },
+        {
+            "type": "16",
+            "pitch": "3"
+        },
+        {
+            "type": "8",
+            "pitch": "5"
+        },
+        {
+            "type": "16",
+            "pitch": "5"
+        },
+        {
+            "type": "s8"
+        },
+        {
+            "type": "8",
+            "pitch": "6"
+        },
+        {
+            "type": "8",
+            "pitch": "2"
+        },
+        {
+            "type": "8",
+            "pitch": "1"
+        },
+        {
+            "type": "8",
+            "pitch": "2"
+        },
+        {
+            "type": "16",
+            "pitch": "1"
+        },
+        {
+            "type": "16",
+            "pitch": "2"
+        },
+        {
+            "type": "16",
+            "pitch": "2"
+        },
+        {
+            "type": "8",
+            "pitch": "5"
+        },
+        {
+            "type": "16",
+            "pitch": "3"
+        },
+        {
+            "type": "s8"
+        },
+        {
+            "type": "8",
+            "pitch": "5"
+        },
+        {
+            "type": "8",
+            "pitch": "6"
+        },
+        {
+            "type": "8",
+            "pitch": "7"
+        },
+        {
+            "type": "8",
+            "pitch": "2",
+            "multiples": 1
+        },
+        {
+            "type": "16",
+            "pitch": "1",
+            "multiples": 1
+        },
+        {
+            "type": "16",
+            "pitch": "3"
+        },
+        {
+            "type": "16",
+            "pitch": "3"
+        },
+        {
+            "type": "8",
+            "pitch": "5"
+        },
+        {
+            "type": "16",
+            "pitch": "5"
+        },
+        {
+            "type": "s8"
+        },
+        {
+            "type": "8",
+            "pitch": "6"
+        },
+        {
+            "type": "16",
+            "pitch": "b3"
+        },
+        {
+            "type": "16",
+            "pitch": "2"
+        },
+        {
+            "type": "8",
+            "pitch": "1"
+        },
+        {
+            "type": "8",
+            "pitch": "2"
+        },
+        {
+            "type": "16",
+            "pitch": "1"
+        },
+        {
+            "type": "16",
+            "pitch": "7",
+            "multiples": -1
+        },
+        {
+            "type": "8",
+            "pitch": "7",
+            "multiples": -1
+        },
+        {
+            "type": "8",
+            "pitch": "1"
+        },
+        {
+            "type": "16",
+            "pitch": "1"
+        }
+    ]
+}
